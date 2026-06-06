@@ -1,0 +1,19 @@
+{
+  "name": "birthday-game",
+  "version": "1.0.0",
+  "description": "A dreamy pixel-art birthday exploration game",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7"
+  }
+}
